@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "a49bddf02b61e7d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5718e612c2f19794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc7a6892e7de702f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人知识库/个人知识库.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6bba42523d732fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人知识库/经济/财务/报表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53a3a3fa5b902d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b99661890bcb5ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4171353318bdc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77df74739f3019ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "496242caa9a07240",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "108087a4bbb386b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea49ce818e5246e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4def5db6b84fc3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人知识库/经济/财务/报表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "520574bc84ec8d3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "个人知识库/经济/财务/报表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a493e56dd0796169",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d190ec1a60c07da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "个人知识库/经济/财务/报表.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e6bba42523d732fa",
+  "lastOpenFiles": [
+    "个人知识库/个人知识库.md",
+    "Excalidraw/nothing stage 1.md",
+    "Excalidraw/Drawing 2022-12-08 10.24.41.excalidraw.md",
+    "Excalidraw/Drawing 2022-12-06 09.45.41.excalidraw.md",
+    "个人知识库/计算机/python/Thread Life-Cycle in Python.md",
+    "Pasted image 20221206114436.png",
+    "Untitled.md"
+  ]
+}
