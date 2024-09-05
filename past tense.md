@@ -1,11 +1,5 @@
-```
-别让语法偷走语感
-```
-
 [[past simple]]
 
-[[past continuous]]
+[[Past Continuous Tense]]
 
-[[past perfect]]
-
-[[past perfect continuous]]
+[[Past Perfect Tense]]
