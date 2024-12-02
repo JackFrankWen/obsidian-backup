@@ -1,7 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-mind-map",
-  "obsidian-git",
   "table-editor-obsidian",
-  "sheets"
+  "sheets",
+  "obsidian-git",
+  "d2-obsidian"
 ]

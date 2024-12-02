@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7da739359443800",
+        "id": "ceb552261edd0b4d",
         "type": "tabs",
         "children": [
           {
-            "id": "b8aee75392b5f83e",
+            "id": "9e9b2c6388a1bbc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,23 +16,13 @@
                 "file": "个人知识库/个人知识库.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "个人知识库"
             }
           },
           {
-            "id": "e7f1160fb1e80be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游泳.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce9596a56e9f0051",
+            "id": "acf09abf1d63ca58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,47 +30,26 @@
                 "file": "牧牧溪溪教育计划.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "牧牧溪溪教育计划"
             }
           },
           {
-            "id": "5cdde05c4439322f",
+            "id": "14f13bcd34444dfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "宏观.md",
+                "file": "情绪手册.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "07d76be304f2b327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023年总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e5eb9edb32f698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游泳.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "情绪手册"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -115,7 +86,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -131,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -154,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游泳.md",
+                "file": "总结/2024英语计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +139,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024英语计划"
             }
           },
           {
@@ -171,10 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游泳.md",
+                "file": "总结/2024英语计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024英语计划"
             }
           },
           {
@@ -185,7 +166,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -194,8 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游泳.md"
-              }
+                "file": "总结/2024英语计划.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024英语计划"
             }
           },
           {
@@ -203,10 +188,13 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,47 +212,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7f1160fb1e80be9",
+  "active": "9e9b2c6388a1bbc4",
   "lastOpenFiles": [
-    "牧牧游泳教学计划.md",
-    "游泳专项体能训练.md",
-    "英语学习计划.md",
+    "健身计划.md",
     "个人知识库/个人知识库.md",
-    "宏观.md",
-    "想对儿子女儿说的.md",
-    "2023年总结.md",
-    "逻辑学.md",
-    "教育.md",
-    "数学.md",
-    "语文.md",
-    "Chatgpt.md",
     "todo计划.md",
-    "2024年总结.md",
-    "2024年阅读计划.md",
-    "psycholedge/大脑.md",
-    "五年之后.md",
+    "心理测试.md",
+    "三观.md",
+    "牧牧溪溪教育计划.md",
+    "情绪手册.md",
+    "总结/2024英语计划.md",
+    "Language development at 3 - 4 years.md",
+    "总结/2024年总结.md",
     "2016 usa debate.md",
-    "psycholedge/心理学.md",
-    "psycholedge/认知中个体的差异.md",
-    "psycholedge/认知心理学及其启示.md",
-    "psycholedge/认知心理学.md",
-    "思维.md",
-    "psycholedge/皮亚杰的理论.md",
-    "psycholedge/大脑皮质.md",
-    "游泳.md",
-    "Pasted image 20240823210104.png",
-    "Pasted image 20240823210036.png",
-    "Pasted image 20240823205948.png",
-    "Pasted image 20240823205522.png",
-    "Pasted image 20240823205514.png",
-    "Pasted image 20240823205447.png",
-    "Pasted image 20240822114157.png",
-    "Pasted image 20240822114140.png",
-    "Pasted image 20240822114054.png",
-    "Pasted image 20240822110123.png",
+    "埃里克森发展阶段.md",
+    "艾宾浩斯的遗忘曲线.md",
+    "并列句.md",
+    "伯克毕生发展.md",
+    "财务贫穷与政治.md",
+    "超级记忆：打造自己记忆宫殿.md",
+    "超级记忆：破解宫殿记忆的秘密.md",
+    "自然拼读学习记录.md",
+    "English Writing.md",
+    "总结/2024年阅读计划.md",
+    "总结/2024年度计划.md",
+    "总结/2023年总结.md",
+    "总结/2024语文.md",
+    "当代教育心理学.md",
+    "维果茨基理论.md",
+    "Pasted image 20240621194442.png",
+    "Pasted image 20240617101403.png",
+    "Untitled.canvas",
+    "Pasted image 20241010124417.png",
+    "Pasted image 20241010124201.png",
+    "Pasted image 20241010124134.png",
+    "Pasted image 20241010124005.png",
+    "Pasted image 20241010123931.png",
+    "Pasted image 20241010123924.png",
+    "Pasted image 20241010123850.png",
+    "Pasted image 20241010123806.png",
+    "核心",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "bobo 1.ppt",
     "bobo.ppt",
     "psycholedge"

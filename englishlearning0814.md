@@ -37,6 +37,4 @@ I m going to prepare lunch.What do you want to eat for lunch?
 Clinton:
 invest you by create 
 
-eoc Fair
-make life balance
 
