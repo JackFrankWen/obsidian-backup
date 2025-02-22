@@ -1,0 +1,64 @@
+# --- 操作系统元文件 ---
+# macOS
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+**/._*
+.DocumentRevisions-V100
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.fseventsd
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.directory
+*.swp
+*.swo
+
+# --- Obsidian核心配置 ---
+# 保留的核心配置文件（建议同步）
+!.obsidian/app.json       # 插件列表
+!.obsidian/community-plugins.json
+!.obsidian/themes/        # 主题文件
+!.obsidian/snippets/      # CSS代码片段
+
+# 需要忽略的本地化配置
+.obsidian/workspace       # 工作区布局
+.obsidian/hotkeys.json    # 本地快捷键
+.obsidian/workspaces/     # 多工作区状态
+.obsidian/vault-stats.json
+.obsidian/telemetry-event.json
+.obsidian/file-recovery/
+
+# --- 缓存与临时文件 ---
+*.tmp
+*.temp
+*.swp
+*.swo
+*.un~
+~$*.md
+._*.md
+session.json
+.trash/                   # Obsidian回收站
+.cache/
+.tmp/
+
+# --- 版本控制系统 ---
+# 忽略其他版本控制工具文件
+.svn/
+.venv/
+
+# --- IDE相关文件 ---
+.vscode/
+.idea/
+
+# --- 同步服务文件 ---
+.dropbox
+.sync/
+
