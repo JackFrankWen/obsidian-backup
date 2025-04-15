@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7264cba2c96cae73",
+        "id": "d6c8641b0a447dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "b7bd585d255b9687",
+            "id": "9da96d1a68653313",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "多多计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 多多计划"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "多多计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 多多计划"
+              "title": "Outgoing links"
             }
           },
           {
@@ -197,11 +195,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b7bd585d255b9687",
+  "active": "9da96d1a68653313",
   "lastOpenFiles": [
     "多多客服测试用例.md",
     "多多计划.md",
+    "淘宝客服话术.md",
     "拼多多客户机器人.md",
+    "扣子机器人.md",
     "Pasted image 20250415161109.png",
     "Untitled.md",
     "拼多多自动核销功能 @{2025-04-16}.md",
@@ -224,7 +224,6 @@
     "核心/人的一生.md",
     "掌控习惯.md",
     "投资意向.md",
-    "总结/2025英语计划.md",
     "Pasted image 20241224112323.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
