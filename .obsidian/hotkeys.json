@@ -2,7 +2,7 @@
   "obsidian-mind-map:app:markmap-preview": [
     {
       "modifiers": [
-        "Mod"
+        "Ctrl"
       ],
       "key": "P"
     }
