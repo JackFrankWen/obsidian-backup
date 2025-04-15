@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "a49bddf02b61e7d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21da8bbbbde6d02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff02fa6994b1c994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-04-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-15"
+            }
+          },
+          {
+            "id": "671448cb54b4e12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Past Tense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Past Tense"
+            }
+          },
+          {
+            "id": "3f255fee9aba4d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "健身计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "健身计划"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53a3a3fa5b902d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b99661890bcb5ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4171353318bdc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77df74739f3019ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "496242caa9a07240",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "193d1a61e8bfdf8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "108087a4bbb386b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea49ce818e5246e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4def5db6b84fc3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "总结/2024英语计划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024英语计划"
+            }
+          },
+          {
+            "id": "520574bc84ec8d3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "总结/2024英语计划.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024英语计划"
+            }
+          },
+          {
+            "id": "a493e56dd0796169",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d190ec1a60c07da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "健身计划.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 健身计划"
+            }
+          },
+          {
+            "id": "a021e84118de5d8f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3f255fee9aba4d09",
+  "lastOpenFiles": [
+    "随手记新.md",
+    "设计.md",
+    "英语学习内容.md",
+    "美国人词汇量.md",
+    "牧牧英语老师.md",
+    "核心/给未来的你们.md",
+    "核心/爷爷的事情.md",
+    "核心/人的一生.md",
+    "掌控习惯.md",
+    "拼多多客户机器人.md",
+    "投资意向.md",
+    "总结/2025英语计划.md",
+    "总结/2025年度计划.md",
+    "总结/2024年-总结.md",
+    "总结/2023年-总结.md",
+    "微习惯养成.md",
+    "微习惯.md",
+    "家庭会议20250321.md",
+    "家庭人物.md",
+    "人工店铺机器人.md",
+    "习惯养成.md",
+    "习惯.md",
+    "Pasted image 20241224112323.png",
+    "Google Class投影.md",
+    "B站搬运.md",
+    "AI的调研.md",
+    "2025-03-19.md",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "总结",
+    "Pasted image 20240823205522.png",
+    "Pasted image 20240617101403.png",
+    "核心",
+    "status",
+    "psycholedge",
+    "git",
+    "bobo.ppt",
+    "bobo 1.ppt",
+    "Pasted image 20241010124417.png",
+    "Pasted image 20241010124201.png",
+    "Pasted image 20241010124134.png",
+    "Pasted image 20241010124005.png",
+    "Pasted image 20241010123931.png",
+    "Pasted image 20241010123924.png",
+    "Pasted image 20241010123850.png",
+    "个人知识库/计算机/python",
+    "个人知识库/计算机"
+  ]
+}
