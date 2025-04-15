@@ -6,5 +6,13 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-markmind:Export mindmap to xmind zen": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }

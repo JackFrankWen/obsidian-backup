@@ -1,8 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-mind-map",
   "table-editor-obsidian",
   "sheets",
   "obsidian-git",
-  "d2-obsidian"
+  "d2-obsidian",
+  "obsidian-markmind",
+  "obsidian-kanban"
 ]
