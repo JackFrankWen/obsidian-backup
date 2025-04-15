@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7264cba2c96cae73",
+        "id": "b2a8c857ba28c97d",
         "type": "tabs",
         "children": [
           {
-            "id": "b7bd585d255b9687",
+            "id": "072a2f89c4b4e842",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "多多计划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "多多计划"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -197,7 +187,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b7bd585d255b9687",
+  "active": "072a2f89c4b4e842",
   "lastOpenFiles": [
     "多多客服测试用例.md",
     "多多计划.md",
