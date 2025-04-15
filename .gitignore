@@ -23,18 +23,9 @@ $RECYCLE.BIN/
 
 # --- Obsidian核心配置 ---
 # 保留的核心配置文件（建议同步）
-!.obsidian/app.json       # 插件列表
-!.obsidian/community-plugins.json
-!.obsidian/themes/        # 主题文件
-!.obsidian/snippets/      # CSS代码片段
 
 # 需要忽略的本地化配置
-.obsidian/workspace       # 工作区布局
-.obsidian/hotkeys.json    # 本地快捷键
-.obsidian/workspaces/     # 多工作区状态
-.obsidian/vault-stats.json
-.obsidian/telemetry-event.json
-.obsidian/file-recovery/
+.obsidian/
 
 # --- 缓存与临时文件 ---
 *.tmp
