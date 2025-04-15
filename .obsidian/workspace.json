@@ -8,13 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b145bdcbd2ef6f24",
+            "id": "b7bd585d255b9687",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "多多计划.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "多多计划"
             }
           }
         ]
@@ -100,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "多多计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 多多计划"
             }
           },
           {
@@ -118,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "多多计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 多多计划"
             }
           },
           {
@@ -185,10 +197,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b145bdcbd2ef6f24",
+  "active": "b7bd585d255b9687",
   "lastOpenFiles": [
+    "多多客服测试用例.md",
     "多多计划.md",
     "拼多多客户机器人.md",
+    "Pasted image 20250415161109.png",
+    "Untitled.md",
     "拼多多自动核销功能 @{2025-04-16}.md",
     "个人知识库/多多.md",
     "个人知识库/个人知识库.md",
@@ -210,9 +225,6 @@
     "掌控习惯.md",
     "投资意向.md",
     "总结/2025英语计划.md",
-    "总结/2025年度计划.md",
-    "总结/2024年-总结.md",
-    "总结/2023年-总结.md",
     "Pasted image 20241224112323.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -234,7 +246,6 @@
     "Pasted image 20241010124005.png",
     "Pasted image 20241010123931.png",
     "Pasted image 20241010123924.png",
-    "Pasted image 20241010123850.png",
     "个人知识库/计算机/python",
     "个人知识库/计算机"
   ]
