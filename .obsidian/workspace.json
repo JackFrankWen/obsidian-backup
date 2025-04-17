@@ -4,30 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c8641b0a447dfb",
+        "id": "886073be4b951762",
         "type": "tabs",
         "children": [
           {
-            "id": "9da96d1a68653313",
+            "id": "5d7403fdebba4e88",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "多多计划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "拼多多商品列表.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "多多计划"
+              "icon": "lucide-file",
+              "title": "拼多多商品列表"
+            }
+          },
+          {
+            "id": "06f5d4aa859028fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "拼多多商品列表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "拼多多商品列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "核心/赤壁之战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 赤壁之战"
             }
           },
           {
@@ -175,7 +185,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,41 +206,41 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9da96d1a68653313",
+  "active": "06f5d4aa859028fc",
   "lastOpenFiles": [
-    "多多客服测试用例.md",
+    "智多星流程图.md",
+    "拼多多商品列表.md",
+    "Excalidraw/多多流程后端.md",
+    "核心/赤壁之战.md",
     "多多计划.md",
-    "淘宝客服话术.md",
-    "拼多多客户机器人.md",
     "扣子机器人.md",
-    "Pasted image 20250415161109.png",
-    "Untitled.md",
-    "拼多多自动核销功能 @{2025-04-16}.md",
-    "个人知识库/多多.md",
-    "个人知识库/个人知识库.md",
-    "家庭人物.md",
-    "奖励系统.md",
-    "健身.md",
-    "记忆力书籍.md",
-    "记忆力训练计划.md",
-    "超级记忆：破解宫殿记忆的秘密.md",
-    "Present Tense.md",
-    "随手记新.md",
-    "设计.md",
-    "英语学习内容.md",
-    "美国人词汇量.md",
-    "牧牧英语老师.md",
-    "核心/给未来的你们.md",
-    "核心/爷爷的事情.md",
-    "核心/人的一生.md",
-    "掌控习惯.md",
-    "投资意向.md",
+    "人工店铺机器人.md",
     "Pasted image 20241224112323.png",
+    "Untitled.md",
+    "Excalidraw",
+    "Untitled mindmap.md",
+    "personality.md",
+    "Pasted image 20250415161109.png",
+    "核心/爷爷的事情.md",
+    "拼多多客户机器程序.md",
+    "个人知识库/个人知识库.md",
+    "总结/2025年-看书.md",
+    "总结/2024年-总结.md",
+    "大脑左右功能区分.md",
+    "总结/2025年度计划.md",
+    "总结/2025英语计划.md",
+    "核心/五年之后.md",
+    "健身计划.md",
+    "英语学习计划.md",
+    "2024年阅读计划.md",
+    "多多客服测试用例.md",
+    "淘宝客服话术.md",
+    "核心/给未来的你们.md",
+    "核心/人的一生.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 3.canvas",
-    "Excalidraw",
     "总结",
     "Pasted image 20240823205522.png",
     "Pasted image 20240617101403.png",
